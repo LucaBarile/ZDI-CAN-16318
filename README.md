@@ -1,0 +1,2 @@
+# CVE-2022-0001
+Exploit for CVE-2022-0001
