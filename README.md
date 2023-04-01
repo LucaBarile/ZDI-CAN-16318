@@ -1,9 +1,9 @@
 # Exploits for ZDI-CAN-16318 (0-day)
 
 <p align="center">
-  <img src="Demo/offline.gif" title="IGPF loads the barol92 json files locally">
+  <img src="LPE/POC.gif" title="IGPF loads the barol92 json files locally">
 </p>
-
+<hr>
 <a href="https://lucabarile.github.io/Blog/cve-2022-0001/lpe/index.html" target="_blank" rel="noopener noreferrer">Here</a> you can find my <b>Local Privilege Escalation Vulnerability</b> report.<br>
 <a href="https://lucabarile.github.io/Blog/cve-2022-0001/arb_r/index.html" target="_blank" rel="noopener noreferrer">Here</a> you can find my <b>Arbitrary File Read Vulnerability</b> report.<br>
 <a href="https://lucabarile.github.io/Blog/cve-2022-0001/arb_rw/index.html" target="_blank" rel="noopener noreferrer">Here</a> you can find my <b>Arbitrary File Read\Write Vulnerability</b> report.<br>
