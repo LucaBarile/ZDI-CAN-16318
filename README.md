@@ -1,4 +1,4 @@
-# Exploits for CVE-2022-0001
+# Exploits for ZDI-CAN-16318 (0-day)
 <a href="https://lucabarile.github.io/Blog/cve-2022-0001/lpe/index.html" target="_blank" rel="noopener noreferrer">Here</a> you can find my (most important) <b>Local Privilege Escalation Vulnerability</b> report.<br>
 <a href="https://lucabarile.github.io/Blog/cve-2022-0001/arb_r/index.html" target="_blank" rel="noopener noreferrer">Here</a> you can find my <b>Arbitrary File Read Vulnerability</b> report.<br>
 <a href="https://lucabarile.github.io/Blog/cve-2022-0001/arb_rw/index.html" target="_blank" rel="noopener noreferrer">Here</a> you can find my <b>Arbitrary File Read\Write Vulnerability</b> report.<br>
