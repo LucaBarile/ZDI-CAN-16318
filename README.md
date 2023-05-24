@@ -1,4 +1,4 @@
-# Exploits for ZDI-CAN-16318 (0-day)
+# Exploits for CVE-2023-32162 (ZDI-CAN-16318) [0-day]
 
 <p align="center">
   <img src="LPE/POC.gif" title="IGPF loads the barol92 json files locally">
